@@ -1,15 +1,16 @@
-body{
-    
+.titulo-principal{
+    padding-left: 30px;
 }
 
 .principal{
     background: #CCCCCC;
+    padding: 20px;
 }
 
 #banner{
     width: 100%;
 }
-h1{
+.titulo-centralizado{
     text-align: center;
 }
 
@@ -28,12 +29,20 @@ em strong{
 
 .diferenciales{
     background: #FFFFFF;
-}
-
-h2{
-    text-align: center;
+    padding: 30px;
 }
 
 .items{
     font-style: italic;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagendiferencial{
+    width: 50%;
 }
