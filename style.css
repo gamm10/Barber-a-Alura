@@ -1,4 +1,8 @@
 body{
+    
+}
+
+.principal{
     background: #CCCCCC;
 }
 
@@ -20,6 +24,14 @@ em strong{
 
 #mision{
     font-size: 20px;
+}
+
+.diferenciales{
+    background: #FFFFFF;
+}
+
+h2{
+    text-align: center;
 }
 
 .items{
